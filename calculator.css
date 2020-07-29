@@ -1,0 +1,25 @@
+.heading {
+  text-align: center;
+}
+.author {
+  text-align: center;
+  padding-left: 480px;
+}
+.sambit {
+  font-weight: bold;
+}
+.linkedin {
+  color: rgba(115, 181, 83, 0.87);
+}
+button {
+  height: 30px;
+  width: 40px;
+}
+.calculatorScreen {
+  border: 2px solid black;
+  width: 168px;
+  height: 40px;
+}
+.calcualtorTable {
+  border: 2px solid black;
+}
